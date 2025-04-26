@@ -26,7 +26,7 @@ export const projects = [
     name: "My Portfolio",
     desc: "Personal portfolio showcasing projects and skills",
     lang: "Next.js + TailwindCSS",
-    link: "oyewole-nathan.vercel.app",
+    link: "https://oyewole-nathan.vercel.app",
   },
 ];
 
