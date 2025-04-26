@@ -21,14 +21,14 @@ export const metadata: Metadata = {
     telephone: false,
   },
   icons: {
-    icon: '/favicon.png',
-    shortcut: '/favicon.png',
-    apple: '/favicon.png',
+    icon: '/nathan.png',
+    shortcut: '/nathan.png',
+    apple: '/nathan.png',
   },
   openGraph: {
     type: 'website',
     locale: 'en_US',
-    url: 'https://robinsonhonour.me.',
+    url: 'oyewole-nathan.vercel.app',
     siteName: 'Nathan Oyewole Portfolio',
     title: 'Nathan Oyewole | Creative Frontend Engineer',
     description: 'Creative Frontend Engineer specializing in web development, app development. Building scalable products with great user experiences.',
@@ -46,7 +46,7 @@ export const metadata: Metadata = {
     title: 'Nathan Oyewole | Creative Frontend Engineer',
     description: 'Creative Frontend Engineer building scalable products with great user experiences.',
     creator: '@Gamerlaz0',
-    images: ['/og.png'],
+    images: ['/nathan.png'],
   },
   robots: {
     index: true,
