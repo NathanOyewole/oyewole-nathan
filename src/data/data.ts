@@ -6,10 +6,10 @@ export const projects = [
     link: "https://github.com/NathanOyewole/fwave-fixer",
   },
   {
-    name: "NFTease - in progress",
-    desc: "NFTease is a modern NFT marketplace that allows users to create, buy, and sell NFTs seamlessly.",
-    lang: "HTML,CSS, JavaScript",
-    link: "https://github.com/NathanOyewole/NFTease",
+    name: "Nerdy",
+    desc: "Nerdy is a terminal-based app, I created for my nerdiness, & from being crazy bored.",
+    lang: "HTML, CSS, JavaScript",
+    link: "https://nerdy-iota.vercel.app/",
   }, {
     name: "Automate",
     desc: "Automate is an automation tool that allows users to automate their tasks and workflows seamlessly.",
