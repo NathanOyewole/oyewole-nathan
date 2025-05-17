@@ -85,6 +85,6 @@ export default function RootLayout({
         {children}
       </body>
     </html>
-    <Analytics/>
+    <Analytics />
   );
 }
