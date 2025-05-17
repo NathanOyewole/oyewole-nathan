@@ -1,6 +1,6 @@
 export const projects = [
   {
-    name: "Creator - Hub - in progess",
+    name: "Creator - Hub  - in progess",
     desc: "A streamlined SaaS platform that helps videographers edit videos, plan content, and access creative assets all in one place.",
     lang: "Vite + React + TypeScript + TailwindCSS, Firebase",
     link: "https://github.com/NathanOyewole/Creator-Hub",
