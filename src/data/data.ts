@@ -1,9 +1,9 @@
 export const projects = [
   {
-    name: "FWAVE Fixer - in progress",
-    desc: "FWAVE Fixer is a modern Flutterwave payement solutions that allows users to make payments and manage their transactions seamlessly.",
-    lang: "Next.js + TailwindCSS",
-    link: "https://github.com/NathanOyewole/fwave-fixer",
+    name: "Creator - Hub - in progess",
+    desc: "A streamlined SaaS platform that helps videographers edit videos, plan content, and access creative assets all in one place.",
+    lang: "Vite + React + TypeScript + TailwindCSS, Firebase",
+    link: "https://github.com/NathanOyewole/Creator-Hub",
   },
   {
     name: "Nerdy",
