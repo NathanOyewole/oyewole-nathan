@@ -25,7 +25,8 @@ export const projects = [
   {
     name: "One Link",
     desc: "A SaaS that lets creators drop a YouTube link or video file and instantly get a blog article, social media draft, and more.",
-    link: "https://github.com/NathanOyewole/One_Link",
+    lang: "Next.JS + TailwindCSS/shadcnui, Supabase",
+    link: "https://github.com/NathanOyewole/One_Link"
   }
 ];
 
