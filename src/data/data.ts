@@ -1,11 +1,5 @@
 export const projects = [
   {
-    name: "Creator - Hub  - in progess",
-    desc: "A streamlined SaaS platform that helps videographers edit videos, plan content, and access creative assets all in one place.",
-    lang: "Vite + React + TypeScript + TailwindCSS, Firebase",
-    link: "https://github.com/NathanOyewole/Creator-Hub",
-  },
-  {
     name: "Nerdy",
     desc: "Nerdy is a terminal-based app, I created for my nerdiness, & from being crazy bored.",
     lang: "HTML, CSS, JavaScript",
@@ -16,18 +10,23 @@ export const projects = [
     lang: "Lua",
     link: "https://github.com/NathanOyewole/Automate",
   },
-  {
-    name: "AI Workout Buddy",
-    desc: "Instant file sharing platform with secure link generation and seamless user experience",
-    lang: "Next.js + TailwindCSS",
-    link: "https://seriouslyworkout.vercel.app/",
-  },
+  // {
+  //   name: "AI Workout Buddy",
+  //   desc: "Instant file sharing platform with secure link generation and seamless user experience",
+  //   lang: "Next.js + TailwindCSS",
+  //   link: "https://seriouslyworkout.vercel.app/",
+  // },
   {
     name: "My Portfolio",
     desc: "Personal portfolio showcasing projects and skills",
     lang: "Next.js + TailwindCSS",
     link: "https://oyewole-nathan.vercel.app",
   },
+  {
+    name: "One Link",
+    desc: "A SaaS that lets creators drop a YouTube link or video file and instantly get a blog article, social media draft, and more.",
+    link: "https://github.com/NathanOyewole/One_Link",
+  }
 ];
 
 export const experienceData = [
@@ -80,12 +79,12 @@ export const skills = [
     id: 10,
     title: "Figma",
   },
-{
-  id: 11,
-  title: "NodeJs/Express",
-},
+  {
+    id: 11,
+    title: "NodeJs/Express",
+  },
   {
     id: Math.random(),
-    title: "MongoDB",
+    title: "Supabase",
   },
 ];

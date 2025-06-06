@@ -29,27 +29,27 @@ const Experience = () => {
           <div className="space-y-12">
             {[
               {
-                  title: "Frontend Developer (Intern)",
-                  company: "Hastro Inc.",
-                  location: "Lagos, Nigeria",
-                  period: "2023 - 2024",
-                  description: [
-                    "Expanded expertise in advanced frontend development concepts and best practices.",
-                    "Led the development of the Following/Followers feature for the mobile app using React Native and Expo.",
-                    "Collaborated closely with the design team to deliver high-quality web applications with a strong focus on user experience and responsive design."
-                  ]
-                
+                title: "Frontend Developer (Intern)",
+                company: "Hastro Inc.",
+                location: "Lagos, Nigeria",
+                period: "2023 - 2024",
+                description: [
+                  "Expanded expertise in advanced frontend development concepts and best practices.",
+                  "Led the development of the Following/Followers feature for the mobile app using React Native and Expo.",
+                  "Collaborated closely with the design team to deliver high-quality web applications with a strong focus on user experience and responsive design."
+                ]
+
               },
               {
-                  title: "UI/UX Designer",
-                  company: "TREM Digital Innovation Team",
-                  location: "Lagos, Nigeria",
-                  period: "2024 - 2025",
-                  description: [
-                    "Collaborated with the development team to design and deliver user-centric digital solutions.",
-                    "Led a two-person design team and worked alongside the product team to gather and implement user feedback effectively.",
-                    "Focused on understanding user needs and behavior to create intuitive and impactful user experiences."
-                  ]
+                title: "UI/UX Designer",
+                company: "TREM Digital Innovation Team",
+                location: "Lagos, Nigeria",
+                period: "2024 - 2025",
+                description: [
+                  "Collaborated with the development team to design and deliver user-centric digital solutions.",
+                  "Led a two-person design team and worked alongside the product team to gather and implement user feedback effectively.",
+                  "Focused on understanding user needs and behavior to create intuitive and impactful user experiences."
+                ]
               },
               {
                 title: "Web Developer",
@@ -61,7 +61,7 @@ const Experience = () => {
                   "Managed and maintained the website’s performance, security, and database integrity until transition to a new administrator.",
                   "Ensured a smooth handover process by maintaining organized and accessible backend systems."
                 ]
-              },              
+              },
             ].map((experience, index) => (
               <motion.div
                 key={index}
@@ -123,7 +123,7 @@ const Experience = () => {
           >
             <Resume
               pdfUrl={resumeUrl}
-              fileName="RobinsonHonour.pdf"
+              fileName="nathan-emmanuel-oyewole-resume[1].pdf"
               buttonText="Download Resume"
             />
           </motion.div>
