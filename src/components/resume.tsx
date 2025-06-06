@@ -18,7 +18,7 @@ const Resume = ({ pdfUrl, fileName, buttonText }: ResumeProps) => {
       const link = document.createElement("a");
       const blobUrl = URL.createObjectURL(blob);
       link.href = blobUrl;
-      link.download = fileName || "download.pdf";
+      link.download = fileName || "nathan-emmanuel-oyewole-resume[1].pdf";
       document.body.appendChild(link);
       link.click();
       document.body.removeChild(link);
