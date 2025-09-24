@@ -26,8 +26,7 @@ const Hero = () => {
                 app development.
               </p>
               <p className="max-w-[319px]">
-                Self-taught programmer with proven experience in building live projects.
-                Gamer and tech enthusiast, always eager to learn and grow.
+                Self-taught programmer with proven experience building live projects. Aesthetically-minded videographer and editor, and tech enthusiast—always eager to learn and grow.
               </p>
             </div>
             <div className="mt-[35px] md:mt-[65px] flex justify-start items-center  gap-[26px] md:gap-[40px]">

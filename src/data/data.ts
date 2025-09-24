@@ -1,3 +1,5 @@
+import { desc } from "framer-motion/client";
+
 export const projects = [
   {
     name: "Nerdy",
@@ -27,6 +29,24 @@ export const projects = [
     desc: "A SaaS that lets creators drop a YouTube link or video file and instantly get a blog article, social media draft, and more.",
     lang: "Next.JS + TailwindCSS/shadcnui, Supabase",
     link: "https://github.com/NathanOyewole/One_Link"
+  },
+  {
+    name: "GigEasy",
+    desc: "A freelance platform that connects clients with skilled freelancers for various projects and services.",
+    lang: "Next.JS + TailwindCSS/shadcnui, Supabase",
+    link: "https://gigeasy.vercel.app/"
+  },
+  {
+    name: "Writes Space",
+    desc: "A writing platform that provides tools and resources for writers to create, edit, and publish their work.",
+    lang: "Next.JS + TailwindCSS/shadcnui, Supabase",
+    link: "https://writes-space.vercel.app/"
+  },
+  {
+    name: "Tarry Games",
+    desc: "Tarry Games is an innovative collectible card game built on the Ethereum blockchain. Each card in the collection is uniquely designed, featuring distinct abilities and powers that set it apart from all others. Players can collect, trade, and strategize using their cards, bringing a new dimension of gameplay and ownership to blockchain.",
+    lang: "HTML, CSS, JavaScript",
+    link: "https://tarrygames.com",
   }
 ];
 

@@ -62,6 +62,17 @@ const Experience = () => {
                   "Ensured a smooth handover process by maintaining organized and accessible backend systems."
                 ]
               },
+              {
+                title: "Frontend Developer",
+                company: "Tarry Games",
+                location: "Remote",
+                period: "2025 - present",
+                description: [
+                  "Spearheaded the development of the Tarry Games website using HTML, CSS & JavaScript, ensuring a responsive and engaging user experience.",
+                  "Collaborated with the Backend Developer to integrate APIs and enhance site functionality.",
+                  "Optimized website performance and implemented SEO best practices to improve visibility and user engagement."
+                ]
+              }
             ].map((experience, index) => (
               <motion.div
                 key={index}
