@@ -1,5 +1,3 @@
-import { desc } from "framer-motion/client";
-
 export const projects = [
   {
     name: "Nerdy",
