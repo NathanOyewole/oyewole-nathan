@@ -57,7 +57,7 @@ export const metadata: Metadata = {
 
     locale: 'en_US',
 
-    url: 'https://oyewole-nathan.vercel.app',
+    url: 'https://nathanoyewole.me',
     siteName: 'Nathan Oyewole Portfolio',
 
     title: 'Nathan Oyewole | Creative Frontend Engineer',
@@ -90,9 +90,9 @@ export const metadata: Metadata = {
 
     description: 'Creative Frontend Engineer building scalable products with great user experiences.',
 
-    creator: '@Gamerlaz0',
+    creator: '@NathanOyewole',
 
-    images: ['/nathan.png'],
+    images: ['/favicon.ico'],
 
   },
 
