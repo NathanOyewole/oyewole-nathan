@@ -20,7 +20,7 @@ export const projects = [
     name: "My Portfolio",
     desc: "Personal portfolio showcasing projects and skills",
     lang: "Next.js + TailwindCSS",
-    link: "https://oyewole-nathan.vercel.app",
+    link: "https://nathanoyewole.me",
   },
   {
     name: "One Link",
@@ -45,6 +45,12 @@ export const projects = [
     desc: "Tarry Games is an innovative collectible card game built on the Ethereum blockchain. Each card in the collection is uniquely designed, featuring distinct abilities and powers that set it apart from all others. Players can collect, trade, and strategize using their cards, bringing a new dimension of gameplay and ownership to blockchain.",
     lang: "HTML, CSS, JavaScript",
     link: "https://tarrygames.com",
+  },
+  {
+    name: "Clipboard (waitlist)",
+    desc: "Clipboard, a platform that is the streamlined workspace for video creators, combining a simple editor, content planner, and asset library into one seamless flow.",
+    lang: "HTML, CSS (tailwind), JavaScript",
+    link: "https://waitlist-clipboard.vercel.app/",
   }
 ];
 
@@ -55,6 +61,12 @@ export const experienceData = [
     comp: "Hastro Inc.",
     desc: "Hastro Inc. is a leading technology company that specializes in providing innovative solutions to businesses and individuals.",
   },
+  {
+    role: "Frontend Developer",
+    span: "2025 - Present",
+    comp: "TarriesNFT",
+    desc: "TarriesNFT is a web3 NFT project that focuses on creating unique digital collectibles on the Ethereum blockchain.",
+  }
 ];
 
 export const skills = [
