@@ -41,17 +41,6 @@ const Experience = () => {
 
               },
               {
-                title: "UI/UX Designer",
-                company: "TREM Digital Innovation Team",
-                location: "Lagos, Nigeria",
-                period: "2024 - 2025",
-                description: [
-                  "Collaborated with the development team to design and deliver user-centric digital solutions.",
-                  "Led a two-person design team and worked alongside the product team to gather and implement user feedback effectively.",
-                  "Focused on understanding user needs and behavior to create intuitive and impactful user experiences."
-                ]
-              },
-              {
                 title: "Web Developer",
                 company: "Universe Inc.",
                 location: "Remote",
@@ -71,6 +60,27 @@ const Experience = () => {
                   "Spearheaded the development of the Tarry Games website using HTML, CSS & JavaScript, ensuring a responsive and engaging user experience.",
                   "Collaborated with the Backend Developer to integrate APIs and enhance site functionality.",
                   "Optimized website performance and implemented SEO best practices to improve visibility and user engagement."
+                ]
+              },
+              {
+                title: "Founder & Full-Stack Engineer",
+                company: "Clipboard",
+                location: "Remote",
+                period: "2025 - present",
+                description: [
+                  "Founded Clipboard, a platform that is the streamlined workspace for video creators, combining a simple editor, content planner, and asset library into one seamless flow.",
+                  "Leading the development of the entire tech stack, including frontend and backend components.",
+                  "Implementing user authentication, database management, and API integrations."
+                ]
+              },
+              {
+                title: "Systems & Tooling Developer",
+                type: "Personal Projects",
+                location: "Remote",
+                description: [
+                  "Developed a command-line disk usage analyzer in Rust, demonstrating systems programming skills.",
+                  "Building a Python-based voice assistant, exploring libraries for speech recognition and automation.",
+                  "Wrote system monitoring tools and automation scripts in Lua for my Neovim environment."
                 ]
               }
             ].map((experience, index) => (

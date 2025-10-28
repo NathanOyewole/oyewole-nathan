@@ -27,7 +27,7 @@ const services = [
         description: "Crafting intuitive and visually appealing user interfaces with a focus on user-centered design principles and modern design trends.",
         icon: Palette,
         category: "Design"
-    },
+    }
 ];
 
 
