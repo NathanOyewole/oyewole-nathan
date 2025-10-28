@@ -2,7 +2,6 @@ import type { Metadata } from "next";
 
 import { Poppins } from "next/font/google";
 
-// @ts-ignore: allow importing global CSS side-effect in Next.js app directory
 import "./globals.css";
 
 import { Analytics } from "@vercel/analytics/next";
