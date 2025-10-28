@@ -115,6 +115,14 @@ export const skills = [
     title: "NodeJs/Express",
   },
   {
+    id: 12,
+    title: "Rust (Basics)",
+  },
+  {
+    id: 13,
+    title: "Solidity (Basics)",
+  },
+  {
     id: Math.random(),
     title: "Supabase",
   },
