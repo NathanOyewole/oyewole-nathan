@@ -116,11 +116,11 @@ export const skills = [
   },
   {
     id: 12,
-    title: "Rust (Basics)",
+    title: "Rust",
   },
   {
     id: 13,
-    title: "Solidity (Basics)",
+    title: "Solidity",
   },
   {
     id: Math.random(),
